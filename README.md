@@ -166,9 +166,9 @@ print("Model loaded successfully!")
 
 | Metric | Value |
 |---|---|
-| Final Training Loss | ~X.XX |
-| Final Validation Loss | ~X.XX |
-| Test Accuracy | ~XX% |
+| Final Training Loss | ~0.1694 |
+| Final Validation Loss | ~1.0590 |
+| Test Accuracy | ~75.87% |
 
 Training loss and accuracy plots are generated at the end of the notebook.
 
@@ -210,16 +210,10 @@ jupyter>=1.0.0
 
 ## 🙋 Author
 
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+**Aniket Sharma**
+- LinkedIn: [your-linkedin](www.linkedin.com/in/aniket-sharma-3169bb378)
 
 ---
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
 ---
 
 > 💡 *Built as a beginner deep learning project to understand CNN fundamentals using PyTorch and the CIFAR-10 benchmark.*
